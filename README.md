@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **sshblue.com**
 
-- 🌱 I’m currently learning **three.js and tailwind CSS**
+- 🌱 I’m currently learning **tsx & js**
 
 - 💬 Ask me about **frontend optimization techniques, GSAP**
 
